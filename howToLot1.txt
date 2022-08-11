@@ -3,5 +3,8 @@ AppKeyBegin##{15d5bb2fd}##LastAppKey
 moregameBegin##{ }##Lastmoregame
 SheireBegin##{ }##Sheiregame
 UrlRateUsBegin##{ }##LastUrlRateUs
+
+UrlFeedBackBegin##{", "}##LastUrlFeedBack
+UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend;
