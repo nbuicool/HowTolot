@@ -8,3 +8,4 @@ UrlFeedBackBegin##{", "}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend;
+ IsMoreGameBegin##{false}##LastIsMoreGame 
