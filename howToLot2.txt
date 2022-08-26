@@ -1,6 +1,6 @@
 //appKey IronSource
 AppKeyBegin##{15d5bb2fd}##LastAppKey
-moregameBegin##{ }##Lastmoregame
+moregameBegin##{https://play.google.com/store/apps/developer?id=alex+touron}##Lastmoregame
 SheireBegin##{ }##Sheiregame
 UrlRateUsBegin##{ }##LastUrlRateUs
 
