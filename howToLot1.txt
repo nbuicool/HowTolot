@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{16383110d}##LastAppKey
+AppKeyBegin##{13569a1c1}##LastAppKey
 moregameBegin##{https://play.google.com/store/apps/developer?id=alex+touron}##Lastmoregame
 SheireBegin##{https://play.google.com/store/apps/details?id=com.BrainGameStudioIq.braintestiqGame}##Sheiregame
 UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.BrainGameStudioIq.braintestiqGame}##LastUrlRateUs
@@ -9,3 +9,4 @@ UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
+16383110d
